@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 You need yo use this command for a correct run of the project (Use this command when youre in the src/assets folder)
-- npx json-server --watch data.json --port <your port>
+- npx json-server --watch data.json --port 

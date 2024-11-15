@@ -2,10 +2,10 @@ import React from 'react'
 
 const ContactInfo = () => {
   return (
-    <div>
-      <div>Email:</div>
-      <div>Phone:</div>
-      <div>Email:</div>
+    <div className='contact-info'>
+      <p>Email: Luisapd2178@gmail.com</p>
+      <p>Phone: 1234567890</p>
+      <p>Name: Luis</p>
     </div>
   )
 }
